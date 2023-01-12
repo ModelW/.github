@@ -1,4 +1,4 @@
-![Model W](cover.jpg)
+![Model W](./cover.jpg)
 
 ## Introduction
 
